@@ -10,11 +10,19 @@ using System.Windows.Forms;
 
 namespace pbSystem
 {
-    public partial class Form1 : Form
+    public partial class home : Form
     {
-        public Form1()
+        //customer_add add = new customer_add();
+
+        public home()
         {
             InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            new customer_add().Show();
+            
         }
     }
 }

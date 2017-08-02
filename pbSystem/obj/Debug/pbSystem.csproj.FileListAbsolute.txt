@@ -1,1 +1,13 @@
 c:\users\veivesh\documents\visual studio 2015\Projects\pbSystem\pbSystem\bin\Debug\pbSystem.exe.config
+C:\Users\veivesh\Documents\Visual Studio 2015\Projects\pbSystem\pbSystem\bin\Debug\pbSystem.exe
+C:\Users\veivesh\Documents\Visual Studio 2015\Projects\pbSystem\pbSystem\bin\Debug\pbSystem.pdb
+C:\Users\veivesh\Documents\Visual Studio 2015\Projects\pbSystem\pbSystem\obj\Debug\pbSystem.csprojResolveAssemblyReference.cache
+C:\Users\veivesh\Documents\Visual Studio 2015\Projects\pbSystem\pbSystem\obj\Debug\pbSystem.Properties.Resources.resources
+C:\Users\veivesh\Documents\Visual Studio 2015\Projects\pbSystem\pbSystem\obj\Debug\pbSystem.csproj.GenerateResource.Cache
+C:\Users\veivesh\Documents\Visual Studio 2015\Projects\pbSystem\pbSystem\obj\Debug\pbSystem.exe
+C:\Users\veivesh\Documents\Visual Studio 2015\Projects\pbSystem\pbSystem\obj\Debug\pbSystem.pdb
+C:\Users\veivesh\Documents\Visual Studio 2015\Projects\pbSystem\pbSystem\bin\Debug\MySql.Data.dll
+C:\Users\veivesh\Documents\Visual Studio 2015\Projects\pbSystem\pbSystem\bin\Debug\MySql.Data.xml
+C:\Users\veivesh\Documents\Visual Studio 2015\Projects\pbSystem\pbSystem\obj\Debug\pbSystem.customer_add.resources
+C:\Users\veivesh\Documents\Visual Studio 2015\Projects\pbSystem\pbSystem\obj\Debug\pbSystem.home.resources
+C:\Users\veivesh\Documents\Visual Studio 2015\Projects\pbSystem\pbSystem\obj\Debug\pbSystem.loginDB.resources
